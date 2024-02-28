@@ -1,5 +1,11 @@
 # rak_common_for_gateway
 
+##      Setup:
+Hardware used: RAK7248 no LTE (RAK2287 + raspberry pi)
+- Configure RAK2287 reset pin from 17 to 25
+- On step 4 use option 7
+
+
 ##	Introduction 
 
 The aim of this project is to help users to use the RAK Raspberry Pi Developer Gateway more easily. The User Guide can be get from our Web(https://docs.rakwireless.com/Introduction/).
